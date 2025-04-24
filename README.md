@@ -1,7 +1,7 @@
 ## Hi there, I'm Moreno Pradita👋
 
 # 💫 About Me:
- I’m currently studying in Computer Science<br>
+I’m currently studying in Computer Science and trying to find projects to contribute<br>
 
 
 ## 🌐 Socials:
